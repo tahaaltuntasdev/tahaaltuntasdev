@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://media.tenor.com/VbfPXaUPrWwAAAAd/tense-tense1983.gif" />
+<img src="https://media.tenor.com/VbfPXaUPrWwAAAAd/tense-tense1983.gif" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
