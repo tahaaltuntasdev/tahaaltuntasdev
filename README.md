@@ -7,6 +7,7 @@
 ### 💻 &nbsp;About Me 
 - 🤔 &nbsp; Intern who wants to be an android developer 🙂
 - 🎓 &nbsp; Computer Engineering
+<img align="right" height="250" alt="guy" width="350" src="https://media.tenor.com/VbfPXaUPrWwAAAAd/tense-tense1983.gif" />
   
 <br>
 
