@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt README header](https://tenor.com/tr/view/tense-gif-19013622)
+https://tenor.com/tr/view/tense-gif-19013622
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
