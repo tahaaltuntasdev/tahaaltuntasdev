@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="right" height="250" alt="guy" width="350" src="https://media.tenor.com/VbfPXaUPrWwAAAAd/tense-tense1983.gif" />
+<img align="right" height="250" alt="guy" width="500" src="https://media.tenor.com/VbfPXaUPrWwAAAAd/tense-tense1983.gif" />
 
 ### 💻 &nbsp;About Me 
 - 🤔 &nbsp; Intern who wants to be an android developer 🙂
