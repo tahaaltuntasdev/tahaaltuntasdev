@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 ## I'm Muhammet Taha Altuntaş
+
 <br>
+
 ### 💻 &nbsp;About Me 
 - 🤔 &nbsp; Intern who wants to be an android developer 🙂
 - 🎓 &nbsp; Computer Engineering
+- 
 <br>
 
 ### 💻 Stack I Work With
