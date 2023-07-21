@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://tenor.com/tr/view/tense-gif-19013622
+<img align="right" height="250" alt="guy" width="350" src="https://tenor.com/tr/view/tense-gif-19013622" /> </a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
