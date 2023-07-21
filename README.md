@@ -26,6 +26,18 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Can Connect With Me On
+### 🌐 Can Connect With Me On
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/taha_altuntas) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammet-taha-altunta%C5%9F-a82110190/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.tahaaltuntas@gmail.com)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media0.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif?cid=790b7611bfa4949d64df38834770faeb47b60bb05d1a0987&rid=giphy.gif&ct=s" align="left" height="100" width="100" />  
+
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=mertozan-tr69&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&bar_color=53b14f&bar_color_cover=true)  
+
+<br/>  
+
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=meetOzan&&style=flat-square" align="right" />
+</div>  
+
+<br />
 
