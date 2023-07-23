@@ -33,7 +33,7 @@
 
 <img src="https://media0.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif?cid=790b7611bfa4949d64df38834770faeb47b60bb05d1a0987&rid=giphy.gif&ct=s" align="left" height="100" width="100" />  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rkndclk0f2rqmnakvrgylji3w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=rkndclk0f2rqmnakvrgylji3w&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rkndclk0f2rqmnakvrgylji3w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
